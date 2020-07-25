@@ -1,0 +1,20 @@
+{|class="wikitable sortable plainrowheaders" style="width: 100%; text-align: center;"
+! scope=col| Station
+! scope=col class="unsortable"| Photograph
+! class="sortable" scope=col| Line(s){{ref label|note01|*|^}}
+! scope=col| Local authority
+! scope=col| Zone(s){{ref label|note02|†|^}}
+! scope=col| Opened<ref name=rose>{{cite book |last=Rose |first=Douglas |title=The London Underground, A Diagrammatic History |year=1999 |location=London|publisher=Douglas Rose/Capital Transport|isbn=1-85414-219-4|oclc= 59556887 }}</ref>
+! scope=col| Main line<br>opened
+! class="unsortable" scope=col| Other name(s)<ref name="other" group="note">The other names listed may have been used previously on station signage, on network maps, in advertisements or in planning material – {{cite book |last=Harris |first=Cyril M. |title = What's in a name? |publisher = Capital Transport |origyear=1977 |year=2006 |isbn=1-85414-241-0}} In the early years, slightly different names were sometimes employed contemporaneously for different purposes or on different parts of a station. A number of stations continue to bear obsolete early names where these form part of the physical architecture. For example, the platform wall tiling at [[Arsenal tube station|Arsenal]], [[Hampstead tube station|Hampstead]], [[Marylebone station|Marylebone]] and [[Warren Street tube station|Warren Street]] still carries the original names of these stations.</ref>
+! scope=col style="width: 4%;" | Usage<ref name="usage">All Usage statistics (total entry plus exits) are in millions per year for {{tubeexits list|year}} – {{Citation LU usage 2018}}.</ref>
+|-
+!scope=row|[[Acton Town tube station|Acton Town]]
+| [[File:ActonTown1.jpg|100px|alt=A brown-bricked building with a flat-slabbed roof and six columns of windows on the front face standing below a blue sky with white clouds|Acton Town]] || [[District line|District]]<br>[[Piccadilly line|Piccadilly]] || [[London Borough of Ealing|Ealing]] ||  [[Travelcard Zone 3|3]] ||  {{dts|format=dmy|1879|July|1}} || {{sort|z|}} || Mill Hill Park: 1879–1910 ||  {{tubeexits list|Acton Town tube station}}
+|-
+!scope=row|[[Aldgate tube station|Aldgate]]
+|[[File:Aldgate-Station-Entrance.jpg|100px|alt=A light grey building with "M.R. ALDGATE STATION M.R." written in stone on the front face and a black car driving in the foreground|Aldgate]] || [[Metropolitan line|Metropolitan]]{{ref label|a|a|^}}<br>[[Circle line (London Underground)|Circle]] || [[City of London]] ||  [[Travelcard Zone 1|1]] ||  {{dts|format=dmy|1876|November|18}} || {{sort|z|}} ||  ||  {{tubeexits list|Aldgate tube station}}
+|-
+!scope=row|[[Woodside Park tube station|Woodside Park]]
+|[[File:Woodside Park stn building.JPG|100px|alt=A beige-bricked building with a rectangular, dark blue sign reading "WOODSIDE PARK STATION" in white letters all under a blue sky|Woodside Park]] || [[Northern line|Northern]] || [[London Borough of Barnet|Barnet]] ||  [[Travelcard Zone 4|4]] ||  {{dts|format=dmy|1940|April|12}} ||  {{dts|format=dmy|1872|April|1}} || Torrington Park, Woodside: 1872–82<br>Woodside Park for North Finchley: 1882–1931<br>Woodside Park and North Finchley for Woodside Garden Suburb: 1931–40 ||  {{tubeexits list|Woodside Park tube station}}
+|}
